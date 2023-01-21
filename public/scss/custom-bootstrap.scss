@@ -1,0 +1,15 @@
+
+@import '_variables';
+
+$theme-colors: (
+  "preto": #000,
+  "laranja": #F29200,
+  "branco": #fff,
+  "roxo": #333366,
+  "tema": #47F7F4,
+  "verde": #64B23F,
+  "atendimento": #75CDD1,
+  
+);
+
+@import './../../node_modules/bootstrap/scss/bootstrap.scss'
